@@ -1,0 +1,30 @@
+{
+    "Account": {
+      "Email": "bot@riftbot.net",
+      "Prefix": "!",
+			"Code": "Your authorization code"
+    },
+    "Control": {
+      "Give full access to": [""],
+      "Public Bot": "false" 
+    },
+    "Party": {
+      "Cosmetics": {
+        "Banner": {
+          "Banner Color": "defaultcolor16",
+          "Banner Name": "NewsletterBanner",
+          "Season Level": 999,
+          "battle pass tier": 200
+        },
+        "Skin": "CID_A_293_Athena_Commando_M_ParallelComic",
+        "Backpack": "BID_256_ShatterFly",
+        "Pickaxe": "Pickaxe_ID_294_CandyCane",
+        "Emote": "EID_Floss"
+      },
+      "Platform": "WIN",
+      "Join party on invitation": "false"    
+},
+    "Friends": {
+      "Accept all friend requests": "false" 
+    }
+  }
