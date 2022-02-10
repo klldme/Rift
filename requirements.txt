@@ -1,0 +1,11 @@
+requests
+termcolor
+aiofiles
+sanic
+fortnitepy
+FortniteAPIAsync
+BenBotAsync
+crayons
+RiftPackage
+discord
+numpy
